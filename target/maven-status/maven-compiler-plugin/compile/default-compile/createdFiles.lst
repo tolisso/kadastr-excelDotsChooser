@@ -1,0 +1,8 @@
+scripts/MainWin.class
+scripts/InputWindowController.class
+scripts/DynamicLineChart.class
+scripts/MainController.class
+scripts/SeriesType.class
+scripts/DynamicLineChartData.class
+scripts/Main.class
+scripts/InputInformation.class
